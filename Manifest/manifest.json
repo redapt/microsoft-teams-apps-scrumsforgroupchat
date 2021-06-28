@@ -18,7 +18,7 @@
     "short": "Scrum Status Bot"
   },
   "description": {
-    "short": "Redapt Scrum Status Bot helps you get status updates from your team in group chat.",
+    "short": "Redapt Scrum Status Bot helps you get status updates from your team in group.",
     "full": "Redapt Scrum Status Bot is a simple scrum assistant that will enable users to run asynchronous standup meetings and provide and easy way for the users to share their daily updates."
   },
   "accentColor": "#FFCCD8",
