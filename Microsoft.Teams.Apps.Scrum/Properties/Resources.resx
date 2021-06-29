@@ -211,7 +211,7 @@ When you ask me to start a scrum, I’ll create a form where people can enter th
     <comment>Text to shown on take a tour button</comment>
   </data>
   <data name="TodayText" xml:space="preserve">
-    <value>What will you do today? *(required)*</value>
+    <value>What are the 1-2 things that you need to achieve today in order for this to be a successful day? *(required)*</value>
     <comment>Field name on task moduel</comment>
   </data>
   <data name="UpdateScrumTitle" xml:space="preserve">
