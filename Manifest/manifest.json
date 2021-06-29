@@ -5,26 +5,26 @@
   "id": "7966210f-b423-4f11-b0aa-fd9af2357fc0",
   "packageName": "com.microsoft.scrumstatus",
   "developer": {
-    "name": "<<company name>>",
-    "websiteUrl": "<<websiteUrl>>",
-    "privacyUrl": "<<privacyUrl>>",
-    "termsOfUseUrl": "<<termsOfUseUrl>>"
+    "name": "Redapt Inc",
+    "websiteUrl": "https://www.redapt.com/",
+    "privacyUrl": "https://www.redapt.com/privacy-statement",
+    "termsOfUseUrl": "https://www.redapt.com/"
   },
   "icons": {
     "color": "color.png",
     "outline": "outline.png"
   },
   "name": {
-    "short": "Scrum Status Bot"
+    "short": "Redapt Scrum Status Bot"
   },
   "description": {
-    "short": "Scrum Status Bot helps you get status updates from your team in group chat.",
-    "full": "Scrum Status Bot is a simple scrum assistant that will enable users to run asynchronous standup meetings and provide and easy way for the users to share their daily updates."
+    "short": "Redapt Scrum Status Bot helps you get status updates from your team in group.",
+    "full": "Redapt Scrum Status Bot is a simple scrum assistant that will enable users to run asynchronous standup meetings and provide and easy way for the users to share their daily updates."
   },
   "accentColor": "#FFCCD8",
   "bots": [
     {
-      "botId": "<<botId>>",
+      "botId": "11192dc8-ed2d-4ecc-83e2-f682c26e306a",
       "scopes": [
         "groupchat"
       ],
@@ -54,6 +54,6 @@
     "messageTeamMembers"
   ],
   "validDomains": [
-    "<<valid domains>>"
+    "Redapt-ScrumStatusBot.azurewebsites.net"
   ]
 }
